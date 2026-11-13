@@ -1,2 +1,3 @@
 # comment
-print("hello word")
+nombre="carlos"
+print(nombre)
